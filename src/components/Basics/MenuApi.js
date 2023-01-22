@@ -6,7 +6,7 @@ const Menu = [
       category: "breakfast",
       price: "12₹",
       description:
-        "Maggi noodles are dried noodles fused with oil, and sold with a packet of flavorings. These noodles are usually eaten after being cooked in boiling water for 3 to 5 minutes or eaten straight from the packet. Just boil the water, add the tastemaker and noodles and your maggi is ready within 2 to 3 minutes. ",
+        "Maggi noodles are dried noodles fused with oil and sold with a packet of flavorings. These noodles are usually eaten after being cooked in boiling water for 3 to 5 minutes or eaten straight from the packet. Just boil the water, add the tastemaker and noodles and your maggi is ready within 2 to 3 minutes. ",
     },
   
     {
