@@ -13,7 +13,9 @@
     font-size: 14px;
     font-weight: 400;
   }
-  
+  body{
+    zoom: 0.9;
+  }
   *,
   *:before,
   *:after {
